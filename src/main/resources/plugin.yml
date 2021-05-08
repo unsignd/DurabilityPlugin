@@ -1,0 +1,10 @@
+name: DurabilityPlugin
+version: 1.0
+main: io.github.errror404.durabilityplugin.DurabilityPlugin
+api-version: 1.16
+author: ERRrOR
+commands:
+  d_start:
+    description: "start durability game"
+  d_stop:
+    description: "stop durability game"
