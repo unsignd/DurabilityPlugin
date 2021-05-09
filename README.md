@@ -1,6 +1,5 @@
 # DurabilityPlugin
 마인크래프트의 모든 내구도를 가진 아이템들의 내구도가 제작 시 랜덤으로 생성되는 미니게임 플러그인
-# How to use
 ## Commands
 ### - d_start : 미니게임을 시작합니다.
 ### - d_stop : 미니게임을 종료합니다.
