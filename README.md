@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/errror404/durabilityplugin/badge)](https://www.codefactor.io/repository/github/errror404/durabilityplugin)
 # DurabilityPlugin
 마인크래프트의 모든 내구도를 가진 아이템들의 내구도가 제작 시 랜덤으로 생성되는 미니게임 플러그인
 ## Commands
