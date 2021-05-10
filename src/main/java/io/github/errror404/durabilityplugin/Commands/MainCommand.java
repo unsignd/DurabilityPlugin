@@ -18,7 +18,7 @@ public class MainCommand implements CommandExecutor {
     public static Boolean isStart = false;
     public static ArrayList<Player> playerList = new ArrayList<Player>();
     public static ArrayList<Player> allPlayer = new ArrayList<Player>();
-    public static WorldBorder border;
+    public static WorldBorder border = Bukkit.getWorld("World").getWorldBorder();
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
