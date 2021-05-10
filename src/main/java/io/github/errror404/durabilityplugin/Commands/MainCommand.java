@@ -85,7 +85,7 @@ public class MainCommand implements CommandExecutor {
                 }
 
                 if(!sender.isOp()){
-                    sender.sendMessage(ChatColor.RED + "op를 가진 유저만 게임을 시작할 수 있습니다.");
+                    sender.sendMessage(ChatColor.RED + "op를 가진 유저만 게임을 끝낼 수 있습니다.");
                     break;
                 }
 
